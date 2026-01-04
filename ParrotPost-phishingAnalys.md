@@ -1,8 +1,8 @@
-# 🛡️ Social Engineering Exercise – ParrotPost: Phishing Analysis
+#  Social Engineering Exercise – ParrotPost: Phishing Analysis
 
 **Platform:** TryHackMe  
 **Category:** Social Engineering / Phishing  
-**Author:** AHMAD NAZHAN
+**Author:** Aiman Solehin  
 **Date:** 4 January 2025  
 
 ---
