@@ -1,6 +1,6 @@
 images.png
 
-# 🛡️ Social Engineering Exercise – Phishing Analysis Fundamentals
+# Social Engineering Exercise – Phishing Analysis Fundamentals
 
 **Platform:** TryHackMe  
 **Category:** Social Engineering / Phishing  
