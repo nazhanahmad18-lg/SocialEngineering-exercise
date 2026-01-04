@@ -1,4 +1,4 @@
-![Email Sample](imagesphishingfundamentals/phishinganalysisfundamentals.png)
+![Email Sample](imagesgithub/phishinganalysisfundamentals.png)
 
 # Social Engineering Exercise – Phishing Analysis Fundamentals
 
