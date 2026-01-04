@@ -4,7 +4,7 @@ images.png
 
 **Platform:** TryHackMe  
 **Category:** Social Engineering / Phishing  
-**Author:** Aiman Solehin  
+**Author:** AHMAD NAZHAN 
 **Date:** 4 January 2025  
 
 ---
