@@ -1,3 +1,4 @@
+![Email Sample](imagesgithub/parrotpost.png)
 #  Social Engineering Exercise – ParrotPost: Phishing Analysis
 
 **Platform:** TryHackMe  
